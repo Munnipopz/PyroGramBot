@@ -7,7 +7,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## installing
 
 ### Click Below Image to Deploy
-[![Deploy](https://coursework.vschool.io/content/images/size/w2000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/mpfilter2)
+[![Deploy](https://coursework.vschool.io/content/images/size/w2000/2018/10/heroku_logo.jpeg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/PyroGramBot)
 
 ## ENVironment VARiables
 
